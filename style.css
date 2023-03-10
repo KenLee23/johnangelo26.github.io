@@ -10,14 +10,25 @@ body{
     font-family:sans-serif;
 }
 
-p{
+h3,h2, h1 {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size:medium;
-    color: #0e0d0d;
+    color: white;
     background-color: transparent;
     line-height: 1.7em;
     font-weight: 500;
     -webkit-font-smoothing: antialiased;
-
+    text-align: center;
 }
 
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
