@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        
+        <title>VA Academy</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </head>
+    
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+        <div class="container">
+        <a href="#" class="navbar-brand mb-0 h1">
+            <img class="d-inline-block align top"
+            src="C:\Users\cuent\Desktop\homepage.html\6.png"
+            width="30" height="30">
+            VA ACADEMY
+        </a>
+    <button type="button" 
+            data-bs-toggle="collapse" 
+            data-bs-target="#navbarNav"
+            class="navbar-toggler"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto mb-2 lg-0">
+            <li class="nav-item active">
+                <a href="#" class="nav-link active">
+                    HOME
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a href="#" class="nav-link 
+                            dropdown-toggle"
+                            id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                    COURSES
+                </a>
+                <ul class="dropdown-menu"
+                aria-labelledby="navbarDropdown">
+                    <li><a href="#" class="dropdown-item">VIRTUAL ASSISTANT COURSES</a></li>
+                    <li><a href="#" class="dropdown-item">DIGITAL MARKETING COURSES</a></li>
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    CONTACT US
+                </a>
+            </li>
+        </ul>
+        <ul class="navbar-nav sm-icons">
+            <li><a class="nav-link" href="#"><i class="bi bi-facebook"></i></a></li>
+            <li><a class="nav-link" href="#"><i class="bi bi-instagram"></i></a></li>
+            <li><a class="nav-link" href="#"><i class="bi bi-twitter"></i></a></li>
+            <li><a class="nav-link" href="#"><i class="bi bi-envelope-fill"></i></a></li>
+        </ul>
+    </nav>
+   
+    
+    <body background-color="#f0f8ff"></body>
+    <br>
+    <br>
+    <br>
+    <main>
+    <br>
+    <br>
+        <center><p>Business Owners are hiring Virtual Assistants in record numbers.</p></center>
+     
+    <center><p>Are you ready to leverage your expertise to generate a consistent income every month from home?</p></center>
+        
+    <center><p>Take control of your destiny, tap into your desire & drive, and become in-demand, highly trained Virtual Assistant.</p></center><br><br>
+   </main><br><br><br>
+    <div class="container px-4 text-justify">
+        
+        <div class="row gx-5">
+          <div class="col">
+           <div class="p-3"><span style="font-size: 15px;"><bold>VA University</bold> is an all-inclusive training program for get-it-done 
+            types who want to utilize their professional experience in a work-from-home business. 
+            Starting right away, you will be ready to open for business with a blueprint to be a 
+            successful Virtual Assistant.<br><br>Bibi Goldstein and the team at Buying Time have put together a comprehensive program that 
+            will give everyone who goes through it a greater opportunity to succeed in a home-based 
+            business at any level they choose.<br><br>Whether you want to create extra income for your household or a full–time business, this 
+            program gives you the advantage of experience and education so you can reach your goals 
+            as a successful Virtual Assistant.</span> </div>
+          </div>
+          <div class="col">
+            <div class="p-3"><iframe width="700" height="400" src="https://www.youtube.com/embed/jn2Luvm3YeY" title="BECOME A FREELANCE VIRTUAL ASSISTANT (HOW TO)|TIPS TO BECOME VIRTUAL ASSISTANT| BEST BEGINNERS GUIDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></iframe></div>
+          </div>
+        </div></div>
+      </div>
+    
+     
+    <center><img src="ISO.JPG"width="1250" height="500"></center>
+    <br>
+    <center><img src="Why VA.JPG" width="950" height="480"></center>
+    <br>
+    <center><iframe width="853" height="480" src="https://www.youtube.com/embed/QhKiRrhBeS8" title="How to Become a Virtual Assistant with No Experience | Earn Up to $1000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+    
+</body>
+</html>
