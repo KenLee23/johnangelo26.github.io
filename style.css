@@ -10,7 +10,19 @@ body{
     font-family:sans-serif;
 }
 
-h3,h2, h1 {
+main {
+    border: none;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), 
+    url('https://www.forbes.com/advisor/wp-content/uploads/2022/07/laptop.jpeg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    width: auto;
+}
+
+h3, h2, h1 {
     font-family: 'Open Sans', Arial, sans-serif;
     font-size:medium;
     color: white;
