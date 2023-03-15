@@ -44,3 +44,22 @@ iframe {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     }
 }
+.custom-shape-divider-bottom-1678789228 {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    }
+
+.custom-shape-divider-bottom-1678789228 svg {
+    display: block;
+    width: calc(118% + 1.3px);
+    height: 116px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1678789228 .shape-fill {
+    fill: #0d6efd;
+}
