@@ -21,6 +21,12 @@ main {
     height: 550px;
     width: auto;
 }
+.banner{
+
+    font-weight: bold;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 h3, h2, h1 {
     font-family: 'Open Sans', Arial, sans-serif;
@@ -31,6 +37,10 @@ h3, h2, h1 {
     font-weight: 500;
     -webkit-font-smoothing: antialiased;
     text-align: center;
+}
+
+.services .card-body i{
+    font-size: 60px;
 }
 
 iframe {
@@ -62,4 +72,15 @@ iframe {
 
 .custom-shape-divider-bottom-1678789228 .shape-fill {
     fill: #0d6efd;
+}
+.learnVA {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), 
+    url('https://www.youthemployment.org.uk/dev/wp-content/uploads/2018/07/achievement-3408115_640-600x287.jpg');
+    background-size: 100%;
+    
+    
+}
+
+.learnVA .card-body i{
+    font-size: 50px;
 }
